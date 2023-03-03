@@ -1,4 +1,4 @@
-### Hello there :neckbeard:
+### Hello there :imp:
 
 <!--
 **reijjo/reijjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
