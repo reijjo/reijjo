@@ -1,4 +1,4 @@
-![banner](https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif)
+<!-- ![banner](https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif) -->
 
 **Hey you** :bikini:
 
