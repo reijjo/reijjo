@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-* Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland. :flag_fi:
+* Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland.
 *
 *
