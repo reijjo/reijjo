@@ -1,4 +1,4 @@
-\# Hey you :bikini:
+**Hey you :bikini:
 
 <!--
 **reijjo/reijjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-\# About me
+**About me
 * Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland. 🇫🇮
 *
 *
