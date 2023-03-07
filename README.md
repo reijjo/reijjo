@@ -1,6 +1,6 @@
 <!-- ![banner](https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif) -->
 
-**Hey you** :bikini:
+**Hey you!** 🐥
 
 <!--
 **reijjo/reijjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 **About me**
 * Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland. 🇫🇮
-* Currently focusing on full-stack web development using React, Node.js
-*
+* Currently focusing on full-stack web development using React, Node.js, Express
+
