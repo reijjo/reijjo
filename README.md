@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * Currently focusing on full-stack web development using React, Node.js, Express
 
 
-**Some tools and languages what I've used:**
+**Some tools and languages that I've used:**
 <div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="40px" width="40px"title='visual studio code' /  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' height='40px' width='40px' title='react'/>
