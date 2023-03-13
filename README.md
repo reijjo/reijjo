@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 **Some tools and languages what I've used:**
 <div align='left'>
-  <a href='https://code.visualstudio.com/' target='_blank'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt='vscode' height='40px' width='40px' />
-  </a>
+<a href="https://code.visualstudio.com/" onclick="window.open(this.href,'_blank');return false;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="40px" width="40px"></a>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' height='40px' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt='node' height='40px' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt='express' height='40px' width='40px' />
