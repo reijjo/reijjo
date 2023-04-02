@@ -28,8 +28,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' height='40px' width='40px' title='react'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt='node' height='40px' width='40px'title='nodejs' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt='expressjs' height='40px' width='40px'                     title='expressjs'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt='express' height='40px' width='40px' title='php' />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt='jest' height='40px' width='40px' title='jest' />
+  <img src="https://avatars2.githubusercontent.com/u/8908513?s=400&v=4" alt='cypress' height='40px' width='40px' title='cypress' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt='php' height='40px' width='40px' title='php' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='mysql' height='40px' width='40px' title='mysql'      />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt='postgresql' height='40px' width='40px'     title='postgresql' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt='mongodb' height='40px' width='40px'              title='mongodb' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt='docker' height='40px' width='40px'                  title='docker' />
