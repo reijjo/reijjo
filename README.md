@@ -1,6 +1,10 @@
 <!-- ![banner](https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif) -->
+<!--  <img src='https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif' width='100%' height='300' /> -->
+
 
 **Hey you!** 🐥
+
+<!--  <img src='https://user-images.githubusercontent.com/95418273/235529803-695a2be9-6b40-4177-88ed-cb81364182b5.jpeg' width='100%' height='300' /> -->
 
 <!--
 **reijjo/reijjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
