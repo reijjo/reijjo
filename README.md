@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-**About me**
+  
+**About me** 
 * Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland. 🇫🇮
-* Currently focusing on full-stack web development using React, Node.js, Express
+* Currently focusing on full-stack web development using React, Node.js, Express.js
 
 
 **Some tools and languages that I've used:**
