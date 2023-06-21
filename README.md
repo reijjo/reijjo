@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 **Some tools and languages that I've used:**
 <div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="40px" width="40px"title='visual studio code' /  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescrpit" height="40px" width="40px" title='TypeScript' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescrpit" height="40px" width="40px" title='typescript' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' height='40px' width='40px' title='react'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt='node' height='40px' width='40px'title='nodejs' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt='expressjs' height='40px' width='40px'                     title='expressjs'/>
