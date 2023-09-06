@@ -4,7 +4,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=reijjo)  -->
 
 
-**Hey you!** 🐥
+**Hey! 🐥** 
 
 <!--  <img src='https://user-images.githubusercontent.com/95418273/235529803-695a2be9-6b40-4177-88ed-cb81364182b5.jpeg' width='100%' height='300' /> -->
 
