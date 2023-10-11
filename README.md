@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="40px" width="40px" title='javascript' />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt='node' height='40px' width='40px'title='nodejs' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt='expressjs' height='40px' width='40px'                     title='expressjs'/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt='jest' height='40px' width='40px' title='jest' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt='jest' height='40px' width='40px' title='jest' />
   <img src="https://avatars2.githubusercontent.com/u/8908513?s=400&v=4" alt='cypress' height='40px' width='40px' title='cypress' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt='php' height='40px' width='40px' title='php' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='mysql' height='40px' width='40px' title='mysql'      />
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt='docker' height='40px' width='40px'                  title='docker' />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt='c' height='40px' width='40px' title='c' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt='c' height='40px' width='40px' title='c' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="40px" width="40px"title='visual studio code' /  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt='bash' height='40px' width='40px' title='bash' />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt='git' height='40px' width='40px' title='git' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt='bash' height='40px' width='40px' title='bash' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt='git' height='40px' width='40px' title='git' />
   
  </div>
  <img src='https://komarev.com/ghpvc/?username=reijjo' alt='Profile Counter '/>
