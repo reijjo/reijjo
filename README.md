@@ -4,7 +4,8 @@
 
 <!-- **Hey! 🐥** -->
 
-<img src='https://github.com/reijjo/reijjo/assets/95418273/1721e493-660e-425f-abf1-b96f943ecd4a' width='100%' height='300' /> 
+<img src='https://github.com/reijjo/reijjo/assets/95418273/1721e493-660e-425f-abf1-b96f943ecd4a' width='100%' height='300' />
+<div align='right'><img src='https://komarev.com/ghpvc/?username=reijjo' alt='Profile Counter '/> </div>
 
 
   
@@ -53,7 +54,6 @@
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reijjo)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reijjo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  
- <img src='https://komarev.com/ghpvc/?username=reijjo' alt='Profile Counter '/>
  
 <!-- ![banner](https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif) -->
 <!--  <img src='https://media.giphy.com/media/s73EQWBuDlcas/giphy.gif' width='100%' height='300' /> -->
