@@ -8,12 +8,12 @@
 
 
   
-<!-- **About me**  -->
+## About me 🐥
 * Student at [Hive Helsinki](http://www.hive.fi), a 42-coding school in Helsinki, Finland. 🇫🇮
 * Currently focusing on full-stack web development using React, TypeScript, Node.js, Express.js
 
 
-**Some tools and languages that I've used:**
+## Some tools and languages that I've used:
 <div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' height='40px' width='40px' title='react'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="40px" width="40px" title='typescript' />
