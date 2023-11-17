@@ -4,9 +4,8 @@
 
 <!-- **Hey! 🐥** -->
 
-<img src='https://github.com/reijjo/reijjo/assets/95418273/1721e493-660e-425f-abf1-b96f943ecd4a' width='100%' height='300' />
+<img src='https://github.com/reijjo/reijjo/assets/95418273/22437217-d3ba-4781-8b7d-ddb2922e2897' width='100%' height='300' />
 <div align='right'><img src='https://komarev.com/ghpvc/?username=reijjo' alt='Profile Counter '/> </div>
-
 
   
 ## About me 🐥
