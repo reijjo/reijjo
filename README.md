@@ -10,7 +10,8 @@
   
 ## About me 🐥
 * Graduate of [Hive Helsinki](http://www.hive.fi) / 42 School as a Full Stack Engineering Student.
-* Currently focusing on full-stack web development using React, TypeScript, Node.js, Express.js
+* Focusing on full-stack web development using React, TypeScript, Node.js, Express.js
+* My next learning goals include SvelteKit and Go.
 
 
 ## Some tools and languages that I've used:
